@@ -114,3 +114,20 @@ body {
 .register-link p a:hover {
   text-decoration: underline;
 }
+
+.TopMenu {
+  list-style: none;
+  background: #fff;
+  display: flex; /* Ensures horizontal layout */
+  justify-content: space-between; /* Spreads out the menu items */
+  align-items: center;
+  width: 100%; /* Makes it full width */
+  padding: 15px 20px; /* Adds padding for spacing */
+  position: fixed; /* Sticks it to the top */
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Keeps it above other content */
+  border: none;
+  outline: none;
+  background: transparent;
+}
