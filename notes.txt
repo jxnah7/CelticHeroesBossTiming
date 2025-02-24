@@ -1,0 +1,24 @@
+login page is meant for those where everything
+is already set up ready to go
+
+register clan page is meant for someone without 
+an account who is creating their account as well
+as tying it to their clan , thus getting 
+chieftain privilage
+
+need a page in the case the chieftain has already
+created the clan, and you register an account 
+which also ties you to that clan 
+
+one account can never be in a different clan
+or apply to be in a different clans timers
+
+
+TLDR
+
+login = good to go
+register clan = also create chieftains account
+need account? = must register to a clan
+
+if you want your own solo timers, just make
+a fake clan and be the chief 
